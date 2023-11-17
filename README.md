@@ -1,2 +1,2 @@
 # .NET-MAUI
-Focused on Maiu applications
+Focused on MAUI applications
