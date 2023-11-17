@@ -1,0 +1,1 @@
+C:\Users\alerr\source\repos\SecuriteInformation\SecuriteInformation\SecuriteInformation.csproj;x64
